@@ -1,0 +1,19 @@
+﻿  MODEL JET_ENGINE :
+ 
+
+  1 CIRCULAR REFERENCE LOOPS FOUND
+ 
+
+   LOOP #  1
+
+   Depth of loop is 3
+
+Feature number 31 (COMPONENT, id = 178) 
+  in model JET_ENGINE refers to:
+
+Feature number 6 (PATTERN_1, id = 112) 
+  in model PETROL_PIPES_ARRAY refers to:
+
+Feature number 31 (COMPONENT, id = 178) 
+  in model JET_ENGINE - circle closed.
+
